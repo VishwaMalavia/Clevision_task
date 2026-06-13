@@ -20,16 +20,16 @@ JavaScript (ES6) – Interactive functionality and mobile navigation
 
 🚀 How to Run the Project Locally
 1. Clone the Repository
-git clone https://github.com/VishwaMalavia/Clevision_task.git
+  git clone https://github.com/VishwaMalavia/Clevision_task.git
 2. Navigate to the Project Folder
-cd Clevision_task
+  cd Clevision_task
 3. Open the Project
 
-Simply open the index.html file in your browser.
+  Simply open the index.html file in your browser.
 
-Or, if you use VS Code:
+  Or, if you use VS Code:
 
-code .
+  code .
 
 🤖 AI Tools Used
 
