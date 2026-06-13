@@ -26,8 +26,11 @@ git clone https://github.com/VishwaMalavia/Clevision_task.git
 cd Clevision_task
 3. Open the Project
 Simply open the index.html file in your browser.
+
 Or, if you use VS Code:
+
 code .
+
 Install the Live Server extension and click "Go Live" to run the project locally.
 
 🤖 AI Tools Used
