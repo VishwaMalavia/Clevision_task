@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Grid</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100 min-h-screen p-6">
+
+    <div class="max-w-7xl mx-auto">
+
+        <div class="flex flex-col sm:flex-row justify-between items-center gap-4 mb-8">
+            <h1 class="text-3xl font-bold text-gray-800">
+                Product Store
+            </h1>
+
+            <button id="sortBtn" class="bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded-lg transition">
+                Sort by Price ↑
+            </button>
+        </div>
+
+        <div id="productGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6"></div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
